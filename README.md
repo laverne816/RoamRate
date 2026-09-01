@@ -53,131 +53,71 @@ The platform's UI and documentation follow a luxury editorial travel-tech visual
 ## ⚡ Key Platform Capabilities
 
 <table width="100%">
-
   <tr>
-
     <td width="50%">
-
       <h3 style="color: #1E3D34;">📊 Aspect-Based Sentiment</h3>
-
       <ul>
-
         <li>Deconstructs reviews into <b>7 key operational aspects</b>.</li>
-
         <li>Identifies isolated complaints (e.g., <i>Great staff, poor Wi-Fi</i>).</li>
-
         <li>Displays visual sentiment donut & progress charts.</li>
-
       </ul>
-
     </td>
-
     <td width="50%">
-
       <h3 style="color: #D88394;">🧪 Interactive AI Sandbox</h3>
-
       <ul>
-
         <li>Real-time single review testing engine.</li>
-
         <li>Provides instant confidence scores (e.g., <i>91% Confidence</i>).</li>
-
         <li>Extracts positive/negative topic tags automatically.</li>
-
       </ul>
-
     </td>
-
   </tr>
-
   <tr>
-
     <td width="50%">
-
       <h3 style="color: #648371;">⚖️ Side-by-Side Comparison</h3>
-
       <ul>
-
         <li>Compare 2–3 properties simultaneously.</li>
-
         <li>Aspect-by-aspect breakdown tables.</li>
-
         <li>Automated <b>AI Pick Recommendation</b> engine.</li>
-
       </ul>
-
     </td>
-
     <td width="50%">
-
       <h3 style="color: #5A2A38;">📈 Batch Ingest & Reporting</h3>
-
       <ul>
-
         <li>Admin CSV dataset drag-and-drop ingest.</li>
-
         <li>Instant dynamic graph & analytics updates.</li>
-
         <li><b>One-click PDF Project Report Generator</b>.</li>
-
       </ul>
-
     </td>
-
   </tr>
-
 </table>
 
 ---
 
 ## 👥 Project Team & Core Roles
 
-<table align="center">
-
+<table align="center" width="100%">
   <tr>
-
-    <td align="center" width="20%">
-
+    <td align="center" width="25%">
       <b style="color: #1E3D34;">Laverne</b><br/>
-
       <sub><b>Team Leader</b></sub><br/>
-
       Project oversight & sprint tracking
-
     </td>
-
-    <td align="center" width="20%">
-
+    <td align="center" width="25%">
       <b style="color: #D88394;">Musa</b><br/>
-
       <sub><b>Researcher</b></sub><br/>
-
       Data collection & ABSA ML schema
-
     </td>
-
-    <td align="center" width="20%">
-
+    <td align="center" width="25%">
       <b style="color: #648371;">Rebecca</b><br/>
-
       <sub><b>UI/UX & Demo</b></sub><br/>
-
       Design system & live presentation
-
     </td>
-
-    <td align="center" width="20%">
-
+    <td align="center" width="25%">
       <b style="color: #5A2A38;">Ella</b><br/>
-
       <sub><b>Developer</b></sub><br/>
-
       Frontend/Backend & API integration
-
     </td>
-
   </tr>
-
 </table>
 
 ---
@@ -258,19 +198,6 @@ bun run dev
 
 ---
 
-## 🧭 Application Journey
-
-```mermaid
-flowchart LR
-    A[📝 Review Input] --> B{🧠 ABSA Engine}
-    B --> C[📊 Aspect Scores]
-    C --> D[⚖️ Compare & Rank]
-    D --> E[📄 PDF Report]
-```
-
-> ⚠️ **Note:** The AI sandbox accepts raw, unstructured text — no formatting required. The pipeline normalizes, tokenizes, and scores automatically.
-
----
 
 ## 📂 Repository Structure
 
