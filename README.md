@@ -204,27 +204,6 @@ RoamRate/
 
 ```
 
----
-
-## 🗺 Roadmap
-
-| Status | Feature |
-
-| :--- | :--- |
-
-| ✅ **Shipped** | Aspect-Based Sentiment Analysis (7 aspects) |
-
-| ✅ **Shipped** | Interactive AI Sandbox with confidence scoring |
-
-| ✅ **Shipped** | Side-by-side property comparison & AI Pick |
-
-| ✅ **Shipped** | CSV batch ingest + PDF report generator |
-
-| 🔄 **In Progress** | Multilingual review support (FR / DE / ZA) |
-
-| 🔮 **Planned** | Public API for partner hotel integrations |
-
----
 
 ## 🤝 Contributing
 
