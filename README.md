@@ -34,21 +34,6 @@
 
 > 💡 **Core Differentiator:** Roam Rate doesn't just display review text—it automatically extracts pattern trends, aggregates comparative performance data, and generates executive travel summaries in real-time.
 
----
-
-## 🎨 Visual Color Palette & Design System
-
-The platform's UI and documentation follow a luxury editorial travel-tech visual identity:
-
-| Palette Role | Hex Code | Visual Sample | Application |
-| :--- | :--- | :--- | :--- |
-| **Primary Forest** | `#1E3D34` | `██████████` | Navigation, Headers, Primary Hero Badges |
-| **Dusty Rose Accent** | `#D88394` | `██████████` | Primary Buttons, Highlight Metrics, CTAs |
-| **Sage Green** | `#648371` | `██████████` | Borders, Positive Sentiment Highlights |
-| **Deep Plum** | `#5A2A38` | `██████████` | Section Subheadings, Warning & Flagged Badges |
-| **Warm Sand** | `#F9F6F0` | `██████████` | App Backgrounds & Dynamic Cards |
-
----
 
 ## ⚡ Key Platform Capabilities
 
